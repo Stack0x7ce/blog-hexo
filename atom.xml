@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stack0x7ce</title>
+  
+  <subtitle>学无止境</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.stack0x7ce.me/"/>
+  <updated>2019-02-28T13:15:24.653Z</updated>
+  <id>https://blog.stack0x7ce.me/</id>
+  
+  <author>
+    <name>Stack0x7ce</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deepin 解决 idea 中文乱码</title>
+    <link href="https://blog.stack0x7ce.me/2019/02/27/linux/deepin-jie-jue-idea-zhong-wen-luan-ma/"/>
+    <id>https://blog.stack0x7ce.me/2019/02/27/linux/deepin-jie-jue-idea-zhong-wen-luan-ma/</id>
+    <published>2019-02-27T03:10:50.000Z</published>
+    <updated>2019-02-28T13:15:24.653Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 deepin 系统上使用 Idea 上插件出现中文乱码的问题&lt;/p&gt;
+&lt;p&gt;解决方案：&lt;/p&gt;
+&lt;p&gt;从 Windows/Fonts/ 下复制一个支持中文的字体，也可前往 fontpalace 下载字体&lt;/p&gt;
+&lt;p&gt;我用的是 SimSun
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.stack0x7ce.me/categories/Linux/"/>
+    
+    
+      <category term="Deepin" scheme="https://blog.stack0x7ce.me/tags/Deepin/"/>
+    
+      <category term="IDEA" scheme="https://blog.stack0x7ce.me/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npx 使用教程</title>
+    <link href="https://blog.stack0x7ce.me/2019/02/26/javascript/npx-shi-yong-jiao-cheng/"/>
+    <id>https://blog.stack0x7ce.me/2019/02/26/javascript/npx-shi-yong-jiao-cheng/</id>
+    <published>2019-02-26T07:55:06.000Z</published>
+    <updated>2019-02-28T13:15:24.645Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;npm 从 5.2 版开始，增加了 npx 命令。它有很多用处，本文介绍该命令的主要使用场景。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="NPM" scheme="https://blog.stack0x7ce.me/tags/NPM/"/>
+    
+      <category term="NPX" scheme="https://blog.stack0x7ce.me/tags/NPX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 的 this 原理</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/23/javascript/javascript-de-this-yuan-li/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/23/javascript/javascript-de-this-yuan-li/</id>
+    <published>2019-01-23T01:17:06.000Z</published>
+    <updated>2019-02-28T13:15:24.077Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、问题的由来&quot;&gt;&lt;a href=&quot;#一、问题的由来&quot; class=&quot;headerlink&quot; title=&quot;一、问题的由来&quot;&gt;&lt;/a&gt;一、问题的由来&lt;/h2&gt;&lt;p&gt;学懂 JavaScript
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Prettier 的安装使用</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/16/javascript/prettier-de-an-zhuang-shi-yong/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/16/javascript/prettier-de-an-zhuang-shi-yong/</id>
+    <published>2019-01-16T12:15:38.000Z</published>
+    <updated>2019-02-28T13:15:24.349Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;官方网站 &lt;a href=&quot;https://prettier.io/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="Prettier" scheme="https://blog.stack0x7ce.me/tags/Prettier/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 环境搭建</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/12/php/php-huan-jing-da-jian/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/12/php/php-huan-jing-da-jian/</id>
+    <published>2019-01-12T10:29:33.000Z</published>
+    <updated>2019-02-28T13:15:24.857Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;安装-PHP&quot;&gt;&lt;a href=&quot;#安装-PHP&quot; class=&quot;headerlink&quot; title=&quot;安装 PHP&quot;&gt;&lt;/a&gt;安装 PHP&lt;/h2&gt;&lt;p&gt;Debian / Ubuntu:&lt;/p&gt;
+&lt;pre class=&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="https://blog.stack0x7ce.me/categories/PHP/"/>
+    
+    
+      <category term="PHP" scheme="https://blog.stack0x7ce.me/tags/PHP/"/>
+    
+      <category term="Composer" scheme="https://blog.stack0x7ce.me/tags/Composer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Gogs 搭建 Git 服务</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/10/linux/shi-yong-gogs-da-jian-git-fu-wu/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/10/linux/shi-yong-gogs-da-jian-git-fu-wu/</id>
+    <published>2019-01-10T12:41:35.000Z</published>
+    <updated>2019-02-28T13:15:24.713Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;官方网站 &lt;a href=&quot;https://gogs.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://gogs.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gogs 一款极易搭建的自助 &lt;code&gt;Git
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.stack0x7ce.me/categories/Linux/"/>
+    
+    
+      <category term="Ubuntu" scheme="https://blog.stack0x7ce.me/tags/Ubuntu/"/>
+    
+      <category term="Gogs" scheme="https://blog.stack0x7ce.me/tags/Gogs/"/>
+    
+      <category term="Git" scheme="https://blog.stack0x7ce.me/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx 反向代理 Gogs</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/10/linux/nginx-fan-xiang-dai-li-gogs/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/10/linux/nginx-fan-xiang-dai-li-gogs/</id>
+    <published>2019-01-10T07:51:51.000Z</published>
+    <updated>2019-02-28T13:15:24.681Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;反向代理用途&quot;&gt;&lt;a href=&quot;#反向代理用途&quot; class=&quot;headerlink&quot; title=&quot;反向代理用途&quot;&gt;&lt;/a&gt;反向代理用途&lt;/h2&gt;&lt;p&gt;每次访问都使用 IP 地址加端口号 未免有点麻烦&lt;/p&gt;
+&lt;p&gt;可以绑定一个域名来访问
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.stack0x7ce.me/categories/Linux/"/>
+    
+    
+      <category term="Gogs" scheme="https://blog.stack0x7ce.me/tags/Gogs/"/>
+    
+      <category term="Nginx" scheme="https://blog.stack0x7ce.me/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 查看已经安装的软件</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/09/linux/ubuntu-cha-kan-yi-jing-an-zhuang-de-ruan-jian/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/09/linux/ubuntu-cha-kan-yi-jing-an-zhuang-de-ruan-jian/</id>
+    <published>2019-01-09T11:58:18.000Z</published>
+    <updated>2019-02-28T13:15:24.689Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;查找已安装的软件&lt;/p&gt;
+&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;apt list --installed
+&lt;span class=&quot;token comment&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.stack0x7ce.me/categories/Linux/"/>
+    
+    
+      <category term="Ubuntu" scheme="https://blog.stack0x7ce.me/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 高级总结</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/05/javascript/javascript-gao-ji-zong-jie/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/05/javascript/javascript-gao-ji-zong-jie/</id>
+    <published>2019-01-05T07:55:06.000Z</published>
+    <updated>2019-02-28T13:15:24.321Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;JavaScript-高级知识点&quot;&gt;&lt;a href=&quot;#JavaScript-高级知识点&quot; class=&quot;headerlink&quot; title=&quot;JavaScript 高级知识点&quot;&gt;&lt;/a&gt;JavaScript 高级知识点&lt;/h2&gt;&lt;p&gt;官方文档：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="ECMAScript 6" scheme="https://blog.stack0x7ce.me/tags/ECMAScript-6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DOM 中的事件</title>
+    <link href="https://blog.stack0x7ce.me/2019/01/03/javascript/dom-zhong-de-shi-jian/"/>
+    <id>https://blog.stack0x7ce.me/2019/01/03/javascript/dom-zhong-de-shi-jian/</id>
+    <published>2019-01-03T07:17:15.000Z</published>
+    <updated>2019-02-28T13:15:23.997Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-如何绑定、解绑事件？&quot;&gt;&lt;a href=&quot;#1-如何绑定、解绑事件？&quot; class=&quot;headerlink&quot; title=&quot;1. 如何绑定、解绑事件？&quot;&gt;&lt;/a&gt;1. 如何绑定、解绑事件？&lt;/h2&gt;&lt;p&gt;DOM0
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="DOM" scheme="https://blog.stack0x7ce.me/tags/DOM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 响应式原理</title>
+    <link href="https://blog.stack0x7ce.me/2018/12/29/javascript/vue-xiang-ying-shi-yuan-li/"/>
+    <id>https://blog.stack0x7ce.me/2018/12/29/javascript/vue-xiang-ying-shi-yuan-li/</id>
+    <published>2018-12-29T07:31:22.000Z</published>
+    <updated>2019-02-28T13:15:24.433Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;现在是时候深入一下了！Vue 最独特的特性之一，是其非侵入性的响应式系统。数据模型仅仅是普通的 JavaScript 对象。而当你修改它们时，视图会进行更新。这使得状态管理非常简单直接，不过理解其工作原理同样重要，这样你可以回避一些常见的问题。在这个章节，我们将进入一些
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="Vue" scheme="https://blog.stack0x7ce.me/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 图片懒加载</title>
+    <link href="https://blog.stack0x7ce.me/2018/12/20/javascript/vue-tu-pian-lan-jia-zai/"/>
+    <id>https://blog.stack0x7ce.me/2018/12/20/javascript/vue-tu-pian-lan-jia-zai/</id>
+    <published>2018-12-20T12:43:15.000Z</published>
+    <updated>2019-02-28T13:15:24.533Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如何在 Vue 项目中使用图片懒加载&lt;/p&gt;
+&lt;p&gt;可以使用一个叫 &lt;code&gt;vue-lazyload&lt;/code&gt; 的包来实现&lt;/p&gt;
+&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="Vue" scheme="https://blog.stack0x7ce.me/tags/Vue/"/>
+    
+      <category term="vue-lazyload" scheme="https://blog.stack0x7ce.me/tags/vue-lazyload/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL 配置主从复制</title>
+    <link href="https://blog.stack0x7ce.me/2018/12/15/mysql/mysql-pei-zhi-zhu-cong-fu-zhi/"/>
+    <id>https://blog.stack0x7ce.me/2018/12/15/mysql/mysql-pei-zhi-zhu-cong-fu-zhi/</id>
+    <published>2018-12-15T12:04:52.000Z</published>
+    <updated>2019-02-28T13:15:24.829Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;流程图&quot;&gt;&lt;a href=&quot;#流程图&quot; class=&quot;headerlink&quot; title=&quot;流程图&quot;&gt;&lt;/a&gt;流程图&lt;/h2&gt;&lt;p&gt;用到的软件：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Docker&lt;/code&gt; + &lt;code&gt;haproxy&lt;/code&gt;（负载均衡）+
+        
+      
+    
+    </summary>
+    
+      <category term="MySQL" scheme="https://blog.stack0x7ce.me/categories/MySQL/"/>
+    
+    
+      <category term="Docker" scheme="https://blog.stack0x7ce.me/tags/Docker/"/>
+    
+      <category term="MySQL" scheme="https://blog.stack0x7ce.me/tags/MySQL/"/>
+    
+      <category term="HAProxy" scheme="https://blog.stack0x7ce.me/tags/HAProxy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 深度监听</title>
+    <link href="https://blog.stack0x7ce.me/2018/12/07/javascript/vue-shen-du-jian-ting/"/>
+    <id>https://blog.stack0x7ce.me/2018/12/07/javascript/vue-shen-du-jian-ting/</id>
+    <published>2018-12-07T11:11:06.000Z</published>
+    <updated>2019-02-28T13:15:24.581Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Vue 中 &lt;code&gt;watch&lt;/code&gt; 可以用来监听某个数据&lt;/p&gt;
+&lt;pre class=&quot; language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;watch&lt;span class=&quot;token
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="Vue" scheme="https://blog.stack0x7ce.me/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js 环境搭建</title>
+    <link href="https://blog.stack0x7ce.me/2018/11/28/javascript/node.js-huan-jing-da-jian/"/>
+    <id>https://blog.stack0x7ce.me/2018/11/28/javascript/node.js-huan-jing-da-jian/</id>
+    <published>2018-11-28T10:27:50.000Z</published>
+    <updated>2019-02-28T13:15:24.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;安装-Node-js&quot;&gt;&lt;a href=&quot;#安装-Node-js&quot; class=&quot;headerlink&quot; title=&quot;安装 Node.js&quot;&gt;&lt;/a&gt;安装 Node.js&lt;/h2&gt;&lt;p&gt;Debian / Ubuntu:&lt;/p&gt;
+&lt;pre class=&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://blog.stack0x7ce.me/tags/JavaScript/"/>
+    
+      <category term="Node.js" scheme="https://blog.stack0x7ce.me/tags/Node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 环境搭建</title>
+    <link href="https://blog.stack0x7ce.me/2018/11/28/docker/docker-huan-jing-da-jian/"/>
+    <id>https://blog.stack0x7ce.me/2018/11/28/docker/docker-huan-jing-da-jian/</id>
+    <published>2018-11-28T09:33:21.000Z</published>
+    <updated>2019-02-28T13:15:23.909Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 linux 机器上，也可以实现虚拟化&lt;/p&gt;
+&lt;p&gt;容器是完全使用沙箱机制，相互之间不会有任何接口&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;较旧版本的
+        
+      
+    
+    </summary>
+    
+      <category term="Docker" scheme="https://blog.stack0x7ce.me/categories/Docker/"/>
+    
+    
+      <category term="Docker" scheme="https://blog.stack0x7ce.me/tags/Docker/"/>
+    
+      <category term="Ubuntu" scheme="https://blog.stack0x7ce.me/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 环境搭建</title>
+    <link href="https://blog.stack0x7ce.me/2018/11/02/java/java-huan-jing-da-jian/"/>
+    <id>https://blog.stack0x7ce.me/2018/11/02/java/java-huan-jing-da-jian/</id>
+    <published>2018-11-02T01:01:21.000Z</published>
+    <updated>2019-02-28T13:15:23.937Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;Debian / Ubuntu:&lt;/p&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="https://blog.stack0x7ce.me/categories/Java/"/>
+    
+    
+      <category term="Ubuntu" scheme="https://blog.stack0x7ce.me/tags/Ubuntu/"/>
+    
+      <category term="Java" scheme="https://blog.stack0x7ce.me/tags/Java/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,53 @@
+/* Here is your custom css styles. */
+header .side-nav .mobile-head .logo-name {
+  margin-top: 0;
+}
+
+ul.mobile-menu-list .fa-fw {
+  width: 0;
+}
+
+.github-corner svg {
+  color: #0f83cf !important;
+}
+
+#toc-content .toc-link:hover,
+#toc-content .is-active-link {
+  color: #0f83cf !important;
+}
+
+#toc-content .is-active-link::before {
+  background-color: #0f83cf !important;
+}
+
+input[type="search"]:focus:not([readonly]) {
+  border-bottom: 1px solid #208dd3 !important;
+  box-shadow: 0 1px 0 0 #208dd3 !important;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  width: 5px;
+  background-color: #cccccc;
+  -webkit-border-radius: 6px;
+}
+::-webkit-scrollbar-track-piece {
+  background-color: #fff;
+  -webkit-border-radius: 0;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb:vertical {
+  height: 50px;
+  background-color: #ccc;
+  -webkit-border-radius: 4px;
+  outline: 2px solid #fff;
+  outline-offset: -2px;
+  border: 2px solid #fff;
+}
+::-webkit-scrollbar-thumb:hover {
+  height: 50px;
+  background-color: #9f9f9f;
+  -webkit-border-radius: 4px;
+}
